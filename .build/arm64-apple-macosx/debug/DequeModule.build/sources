@@ -1,0 +1,16 @@
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Descriptions.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift

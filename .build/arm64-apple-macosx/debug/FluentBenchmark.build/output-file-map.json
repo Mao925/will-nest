@@ -1,0 +1,327 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/master.swiftdeps"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Exports.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Exports.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Exports.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Exports.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Exports.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/FluentBenchmarker.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmarker.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmarker.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmarker~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmarker.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmarker.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/GalacticJurisdiction.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GalacticJurisdiction.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GalacticJurisdiction.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GalacticJurisdiction~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GalacticJurisdiction.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GalacticJurisdiction.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Galaxy.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Galaxy.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Galaxy.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Galaxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Galaxy.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Galaxy.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Governor.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Governor.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Governor.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Governor~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Governor.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Governor.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Jurisdiction.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Jurisdiction.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Jurisdiction.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Jurisdiction~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Jurisdiction.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Jurisdiction.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Moon.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Moon.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Moon.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Moon~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Moon.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Moon.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Planet.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Planet.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Planet.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Planet~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Planet.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Planet.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/PlanetTag.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PlanetTag.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PlanetTag.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PlanetTag~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PlanetTag.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PlanetTag.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/SolarSystem.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SolarSystem.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SolarSystem.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SolarSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SolarSystem.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SolarSystem.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Star.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Star.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Star.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Star~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Star.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Star.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/SolarSystem/Tag.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Tag.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Tag.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Tag~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Tag.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/Tag.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/AggregateTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/AggregateTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/AggregateTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/AggregateTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/AggregateTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/AggregateTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ArrayTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ArrayTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ArrayTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ArrayTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ArrayTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ArrayTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/BatchTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/BatchTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/BatchTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/BatchTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/BatchTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/BatchTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/CRUDTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CRUDTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CRUDTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CRUDTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CRUDTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CRUDTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ChildTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ChildrenTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildrenTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildrenTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildrenTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildrenTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChildrenTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ChunkTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChunkTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChunkTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChunkTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChunkTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ChunkTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/CodableTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CodableTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CodableTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CodableTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CodableTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CodableTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/CompositeIDTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeIDTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeIDTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeIDTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeIDTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeIDTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/CompositeRelationTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeRelationTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeRelationTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeRelationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeRelationTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/CompositeRelationTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/EagerLoadTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EagerLoadTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EagerLoadTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EagerLoadTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EagerLoadTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EagerLoadTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/EnumTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EnumTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EnumTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EnumTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EnumTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/EnumTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/FilterTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FilterTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FilterTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FilterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FilterTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FilterTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/GroupTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GroupTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GroupTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GroupTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GroupTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/GroupTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/IDTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/IDTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/IDTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/IDTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/IDTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/IDTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/JoinTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/JoinTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/JoinTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/JoinTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/JoinTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/JoinTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/MiddlewareTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MiddlewareTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MiddlewareTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MiddlewareTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MiddlewareTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MiddlewareTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/MigratorTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MigratorTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MigratorTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MigratorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MigratorTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/MigratorTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ModelTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ModelTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ModelTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ModelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ModelTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ModelTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/OptionalParentTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/OptionalParentTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/OptionalParentTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/OptionalParentTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/OptionalParentTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/OptionalParentTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/PaginationTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PaginationTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PaginationTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PaginationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PaginationTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PaginationTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/ParentTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ParentTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ParentTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ParentTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ParentTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/ParentTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/PerformanceTests+Siblings.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests+Siblings.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests+Siblings.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests+Siblings~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests+Siblings.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests+Siblings.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/PerformanceTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/PerformanceTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/RangeTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/RangeTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/RangeTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/RangeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/RangeTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/RangeTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SQLTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SQLTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SQLTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SQLTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SQLTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SQLTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SchemaTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SchemaTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SchemaTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SchemaTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SchemaTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SchemaTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SetTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SetTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SetTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SetTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SetTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SetTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SiblingsTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SiblingsTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SiblingsTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SiblingsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SiblingsTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SiblingsTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SoftDeleteTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SoftDeleteTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SoftDeleteTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SoftDeleteTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SoftDeleteTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SoftDeleteTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/SortTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SortTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SortTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SortTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SortTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/SortTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/TimestampTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TimestampTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TimestampTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TimestampTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TimestampTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TimestampTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/TransactionTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TransactionTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TransactionTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TransactionTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TransactionTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/TransactionTests.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/FluentBenchmark/Tests/UniqueTests.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/UniqueTests.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/UniqueTests.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/UniqueTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/UniqueTests.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/UniqueTests.dia"
+  }
+}

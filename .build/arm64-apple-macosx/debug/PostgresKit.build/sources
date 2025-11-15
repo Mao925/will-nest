@@ -1,0 +1,14 @@
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresColumnType.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConfiguration.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataEncoder.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDatabase+SQL+Deprecated.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataTranslation.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDatabase+SQL.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift
+/Users/hashimotomao/WillBackend/.build/checkouts/postgres-kit/Sources/PostgresKit/SQLPostgresConfiguration.swift

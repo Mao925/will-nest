@@ -1,0 +1,3 @@
+module NIOPosix {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/NIOPosix.build/include/NIOPosix-Swift.h"
+}

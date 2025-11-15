@@ -1,0 +1,3 @@
+module FluentPostgresDriver {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/include/FluentPostgresDriver-Swift.h"
+}

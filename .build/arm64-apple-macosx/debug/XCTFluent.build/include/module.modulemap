@@ -1,0 +1,3 @@
+module XCTFluent {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/include/XCTFluent-Swift.h"
+}

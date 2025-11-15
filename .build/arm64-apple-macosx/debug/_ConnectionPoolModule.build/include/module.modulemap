@@ -1,0 +1,3 @@
+module _ConnectionPoolModule {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/_ConnectionPoolModule.build/include/_ConnectionPoolModule-Swift.h"
+}

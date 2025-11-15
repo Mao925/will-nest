@@ -1,0 +1,10 @@
+services:
+  api:
+    build: .
+    container_name: will-backend
+    environment:
+      DATABASE_URL: postgres://will_user:secret@host.docker.internal:5432/will
+      PORT: 8080
+      ENVIRONMENT: development
+    ports:
+      - "8080:8080"

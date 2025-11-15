@@ -1,0 +1,3 @@
+module FluentBenchmark {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/include/FluentBenchmark-Swift.h"
+}

@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/master.swiftdeps"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/swift-metrics/Sources/MetricsTestKit/TestMetrics.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.dia"
+  }
+}

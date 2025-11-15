@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/master.swiftdeps"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/XCTFluent/DummyDatabase.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/DummyDatabase.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/DummyDatabase.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/DummyDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/DummyDatabase.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/DummyDatabase.dia"
+  },
+  "/Users/hashimotomao/WillBackend/.build/checkouts/fluent-kit/Sources/XCTFluent/TestDatabase.swift": {
+    "dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/TestDatabase.d",
+    "object": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/TestDatabase.swift.o",
+    "swiftmodule": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/TestDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/TestDatabase.swiftdeps",
+    "diagnostics": "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/XCTFluent.build/TestDatabase.dia"
+  }
+}

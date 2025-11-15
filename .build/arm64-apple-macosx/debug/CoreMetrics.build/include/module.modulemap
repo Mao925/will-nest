@@ -1,0 +1,3 @@
+module CoreMetrics {
+    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/CoreMetrics.build/include/CoreMetrics-Swift.h"
+}
