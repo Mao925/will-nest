@@ -11,6 +11,7 @@ public func configure(_ app: Application) throws {
 
     app.migrations.add(TargetLogMigration())
     app.migrations.add(TargetLogSeedMigration())
+    app.migrations.add(DailyMetricMigration())
 
     if app.environment == .development {
         try app.autoMigrate().wait()
