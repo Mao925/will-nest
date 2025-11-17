@@ -1,3 +1,0 @@
-module FluentSQL {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentSQL.build/include/FluentSQL-Swift.h"
-}

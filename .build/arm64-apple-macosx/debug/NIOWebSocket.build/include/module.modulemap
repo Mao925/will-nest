@@ -1,3 +1,0 @@
-module NIOWebSocket {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/NIOWebSocket.build/include/NIOWebSocket-Swift.h"
-}

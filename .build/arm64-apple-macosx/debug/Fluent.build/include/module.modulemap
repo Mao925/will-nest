@@ -1,3 +1,0 @@
-module Fluent {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/Fluent.build/include/Fluent-Swift.h"
-}

@@ -1,3 +1,0 @@
-module FluentKit {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/FluentKit.build/include/FluentKit-Swift.h"
-}
