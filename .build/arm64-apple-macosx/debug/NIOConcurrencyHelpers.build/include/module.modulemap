@@ -1,3 +1,0 @@
-module NIOConcurrencyHelpers {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/NIOConcurrencyHelpers.build/include/NIOConcurrencyHelpers-Swift.h"
-}

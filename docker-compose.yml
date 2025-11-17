@@ -1,10 +1,27 @@
 services:
+  db:
+    image: postgres:15-alpine
+    container_name: will-postgres
+    environment:
+      POSTGRES_DB: will
+      POSTGRES_USER: will_user
+      POSTGRES_PASSWORD: secret
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
   api:
     build: .
     container_name: will-backend
+    depends_on:
+      - db
     environment:
-      DATABASE_URL: postgres://will_user:secret@host.docker.internal:5432/will
+      DATABASE_URL: postgres://will_user:secret@db:5432/will
       PORT: 8080
       ENVIRONMENT: development
     ports:
       - "8080:8080"
+
+volumes:
+  postgres-data:

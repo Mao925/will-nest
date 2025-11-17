@@ -1,3 +1,0 @@
-module NIOFoundationCompat {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/include/NIOFoundationCompat-Swift.h"
-}

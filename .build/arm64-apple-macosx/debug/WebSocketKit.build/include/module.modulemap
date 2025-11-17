@@ -1,3 +1,0 @@
-module WebSocketKit {
-    header "/Users/hashimotomao/WillBackend/.build/arm64-apple-macosx/debug/WebSocketKit.build/include/WebSocketKit-Swift.h"
-}
